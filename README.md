@@ -1,4 +1,4 @@
-# exercise-4
+# exercise-4(all rights reserved!)
 ***
 ###`Abstract`
 ***
@@ -180,3 +180,6 @@ When it comes to the application in reality, we need to take the real situation 
 ###`Acknowledgement`
 [1] Professor Cai Hao's basic code
 [2]Computational Physics, Edition 2, Nicholas J.Giordano & Hisao Nakanishi
+
+
+#All rights reserved!All rights reserved!All rights reserved!
