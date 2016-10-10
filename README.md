@@ -12,8 +12,8 @@ Here in this time's exercise, I tried 3 ways--Taylor's solution,Euler's solution
 ###`Exercise`
 ***
 From the questiion, we can solve that differential equations and get 2 functions of N<sub>A</sub> and N<sub>B</sub>:
-![latex](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-10-09%20下午10.12.04.png)
-![latex](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-10-09%20下午10.12.52.png)
+![latex](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-10-10%20上午9.00.37.png)
+![latex](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-10-10%20上午9.01.02.png)
 
 Then the only remaining problem is how to simulate the decay progress and chose which method to do the simulation.
 
